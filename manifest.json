@@ -7,7 +7,7 @@
     "orientation": "portrait",
     "scope": "/",
     "start_url": "/",
-    "icon": [
+    "icons": [
         {
         "src":"./ikona.png",
         "sizes":"512x512",
