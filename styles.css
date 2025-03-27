@@ -1,0 +1,17 @@
+.naglowek{
+    text-align: center;
+    font-size:10vw
+}
+
+.tekst{
+    text-align: center;
+    font-size:4vw
+}
+
+.author-info{
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #ffffff98;
+    padding-top: 20px;
+    width: 100%;
+}
